@@ -1,0 +1,5 @@
+a = input("Name: ")
+b = input("Age: ")
+c = float(input("Basic Salary: "))
+ts = c + (0.2*c) + (0.2*c)
+print(f"Total salary of {a} is: ",ts)

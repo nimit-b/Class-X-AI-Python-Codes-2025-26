@@ -1,0 +1,10 @@
+ProductID,Name,Category,Price,Stock
+101,Laptop,Electronics,1200.50,50
+102,Keyboard,Electronics,75.00,120
+103,Mouse,Electronics,25.99,200
+201,T-Shirt,Apparel,19.99,350
+202,Jeans,Apparel,45.50,180
+301,Notebook,Stationery,2.50,500
+302,Pen,Stationery,1.00,1000
+401,Coffee Maker,Home Goods,55.75,80
+402,Blender,Home Goods,35.00,95
